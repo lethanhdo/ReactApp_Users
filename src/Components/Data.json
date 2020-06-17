@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ronaldo",
+        "tel": "0389201616",
+        "permission": "1"
+    },
+    {
+        "id": 2,
+        "name": "Messi",
+        "tel": "0356457884",
+        "permission": "2"
+    },
+    {
+        "id": 3,
+        "name": "Muller",
+        "tel": "0356898545",
+        "permission": "2"
+    },
+    {
+        "id": 4,
+        "name": "Mpabe",
+        "tel": "097845451",
+        "permission": "1"
+    },
+    {
+        "id": 5,
+        "name": "Ramous",
+        "tel": "0945875142",
+        "permission": 2
+    }
+]
